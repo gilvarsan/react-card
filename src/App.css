@@ -1,0 +1,15 @@
+.App h1 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.App .buttonHelp {
+  text-align: center;
+  padding-top: 40px;
+}
